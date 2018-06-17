@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design</title>
+    <description>Personal Site.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 May 2018 21:10:33 +0530</pubDate>
+    <lastBuildDate>Wed, 30 May 2018 21:10:33 +0530</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Hello World !</title>
+        <description>&lt;p&gt;Finally, after some considerable effort I finished making the framework for my own blog on design! :)&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;!–-break-–&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;why-this-blog&quot;&gt;Why this blog?&lt;/h2&gt;
+
+&lt;p&gt;I was always a fan of good design. It always fascinated me how wonderfully the arts and creative thinking was used to solve real world problems, with logical and technical  reasoning behind it.&lt;/p&gt;
+
+&lt;p&gt;From what I understand, Design is just about solving technical problems around usability and working of products, not just how it looks. This is why I like to observe how products are made, as each aspect of them involves meticulous thought put into making it usable not just functioning.&lt;/p&gt;
+
+&lt;p&gt;I really don’t think I know enough about design and am no expert by any standards.And I dont intend to be. Im just an admirer.&lt;/p&gt;
+
+&lt;p&gt;Thus, I made this blog to note down my thoughts on design and what I observe around me. In all of its spirit this blog is a fan page for good products and a notepad for my musings on them.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-will-i-post-here-&quot;&gt;What will I post here ?&lt;/h2&gt;
+
+&lt;p&gt;My posts here will be of the following types:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-observations&quot;&gt;1. Observations&lt;/h3&gt;
+
+&lt;p&gt;I will post about the instances of interesting design features on products I come across, be it apps, or daily commodities, or coding. All these posts will be be tagged as such.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-experiments&quot;&gt;2. Experiments&lt;/h3&gt;
+
+&lt;p&gt;In these posts I will write with my experiences when faced with a design challenge and how I solved it. Usually when working on projects I focus on design alot because I believe product should be aesthetically appealing too, not just bare bones functionals.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-rants&quot;&gt;3. Rants&lt;/h3&gt;
+
+&lt;p&gt;I tend to have strong opinions about some stuff. This is where I get to let off steam , just kidding :P. Occasionally you might see posts about philosophy about life which I think should affect how things are made.&lt;/p&gt;
+
+&lt;p&gt;Thats about it, unless I come with more content.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to start writing here :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 May 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/posts/hello-world</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/hello-world</guid>
+        
+        <category>meta</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
